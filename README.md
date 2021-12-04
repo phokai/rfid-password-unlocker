@@ -1,4 +1,4 @@
-# rfid-password-unlocker
+# RFID PASSWORD UNLOCKER
 
 Bu proje ile Arduino Leonardo kartına RFID anahtar kart modülü bağlanarak bilgisayarımızın oturum açma ekranında şifre yazmadan kartımızı okutarak oturum açmamız sağlanmıştır.
 
